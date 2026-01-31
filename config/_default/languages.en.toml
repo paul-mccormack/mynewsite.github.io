@@ -17,7 +17,7 @@ title = "mynewsite"
 [params.author]
   name = "Paul McCormack"
 #   email = "youremail@example.com"
-  image = "img/blowfish_logo.png"
+  image = "https://avatars.githubusercontent.com/u/105357226?v=4"
   imageQuality = 96
   headline = "I'm only human"
 #   bio = "A little bit about you"
