@@ -21,9 +21,24 @@
   weight = 2
 
 [[main]]
+  name = "Tutorials"
+  pageRef = "tutorials"
+  weight = 3
+
+[[main]]
+  name = "Projects"
+  pageRef = "projects"
+  weight = 4
+
+[[main]]
   name = "About Me"
   pageRef = "about"
-  weight = 3
+  weight = 5
+
+[[main]]
+  name = "Tags"
+  pageRef = "tags"
+  weight = 6
 
 #[[main]]
 #  name = "Blog"
